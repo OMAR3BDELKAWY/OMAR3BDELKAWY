@@ -11,7 +11,7 @@
 </p>
 
 - 🏢 A Junior .Net Backend web developer
-- 🎓 A CS graduated from helwan university
+- 🎓 A CS graduate from helwan university
 - 👨‍💻 Constantly learning and exploring new technologies to improve my skills
 - 💬 Ask me about <strong>C#, SQL Server and Asp.net Core</strong>
 
